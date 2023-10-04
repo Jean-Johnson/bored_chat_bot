@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+streamlit = "*"
+chatterbot = "==1.0.4"
 
 [dev-packages]
 
