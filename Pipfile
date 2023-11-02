@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 streamlit = "*"
 chatterbot = "==1.0.4"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+transformers = "*"
 
 [dev-packages]
 
